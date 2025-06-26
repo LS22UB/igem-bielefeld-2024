@@ -1,0 +1,29 @@
+:root{
+    --textColor: #000000;
+    --hoverLinkColor: #32232C;
+    --accentOne: #850F78;
+    --accentTwo: #F4CC1E;
+    --accentThree: #F57D22;
+    --background: #FFF6F2;
+    --lightTextColor: var(--background);
+    --linkColor: var(--accentOne);
+    --lightLinkColor: white;
+    --hoverLightLinkColor: var(--background);
+    --buttonBG: var(--linkColor);
+    --hoverButtinBG: var(--hoverLinkColor);
+
+    /* Padding */
+    --thinP: 10px;
+    --normalP: 15px;
+
+    /* Margins */
+    --thinM: 10px;
+    --normalM: 15px;
+    --bigM: 30px;
+    --largeM: 50px;
+
+
+    /*Borders*/
+    --borderWidth: 1px;
+    --borderRadius: 10px;
+}
