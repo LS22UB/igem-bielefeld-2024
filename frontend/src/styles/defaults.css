@@ -5,6 +5,9 @@
     --accentTwo: #F4CC1E;
     --accentThree: #F57D22;
     --background: #FFF6F2;
+    --backgroundDark: #e2dad7 ;
+    --accentOneVeryLight: #ce9fc9;
+    --accentTwoVeryLight: #fae99e;
     --lightTextColor: var(--background);
     --linkColor: var(--accentOne);
     --lightLinkColor: white;
