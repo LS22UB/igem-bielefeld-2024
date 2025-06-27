@@ -14,7 +14,7 @@ export interface labels {
 
 export interface legend {
     display: boolean, // possible to blend out legend
-    position: string, // Puts labels below the chart
+    position: 'bottom', // Puts labels below the chart
     labels: labels,
 }
 
@@ -39,5 +39,5 @@ export interface pieoptions {
 
 export interface PieChartProps {
     data: piedata;
-    options:  pieoptions;
+    chartoptions:  pieoptions;
 }

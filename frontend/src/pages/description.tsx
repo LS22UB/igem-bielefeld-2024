@@ -232,7 +232,7 @@ export function Description() {
                             </ul>
                         </div>
                         <div className="col" >
-                            <PieChart options={pieoption} data={mutationdata}/>
+                            <PieChart chartoptions={pieoption} data={mutationdata}/>
                         </div>
                     </div>
                 </Collapsible>
