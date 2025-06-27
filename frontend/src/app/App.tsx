@@ -44,7 +44,7 @@ const App = () => {
 
                                     <div className="row">
                                        <OurSidebar tabs={tabinfo ?? []} />
-                                        <div className="col-9 max-1240 m-auto py-3" style={{minHeight: "50vh"}}>
+                                        <div className="col-8 max-1240 m-auto py-3" style={{minHeight: "50vh"}}>
                                            <div className="container">
                                                <Component />
                                            </div>
